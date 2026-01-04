@@ -15,7 +15,7 @@
 
 💬 Ask me about AWS (EC2, S3, VPC, EKS), Docker, Kubernetes, CI/CD, Linux, and cloud troubleshooting
 
-📫 How to reach me: LinkedIn | Email (add links here)
+📫 How to reach me: zeeshanmalikz137@gmail.com / https://www.linkedin.com/in/zeeshan201/
 
 😄 Pronouns: He / Him
 
